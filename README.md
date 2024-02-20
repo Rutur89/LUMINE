@@ -27,7 +27,8 @@ This project is a basic frontend website with a focus on 3D animations, creating
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your-username/3D-Animation-Website.git
+    git clone
+    https://github.com/Rutur89/LUMINE.git
     ```
 
 2. Open `index.html` in your preferred web browser to experience the 3D animation website.
